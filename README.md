@@ -18,6 +18,7 @@ The bulletins illustrate the generated algorithm and plots used to build the rep
 ![]( https://github.com/Apollo619/Cryptocurrencies/blob/main/resources/K_means.PNG)
 
 - The 3D Scatter plot (see image below) helps users to visually discern how the three variables used for cryptocurrency clusters effect the output. 
+
 ![]( https://github.com/Apollo619/Cryptocurrencies/blob/main/resources/3D_model.PNG)
 
 - Next a table (see image below) was produced with pertinent information pertaining to cryptocurrency. The table allows users to sort data based on column name. 
